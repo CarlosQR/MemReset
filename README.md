@@ -4,7 +4,7 @@ Chrome Extension that lets you temporarily pause your membean session!!!
 
 # How to install:
 
-1.Download https://github.com/CarlosQR/MemReset/blob/main/MemReset.zip
+1.Download https://github.com/CarlosQR/MemReset/blob/main/memReset.zip
 
 2.Left click the zip and hit Extract All
 
